@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables (CRITICAL: Never commit secrets!)
+.env
+.flaskenv
+secrets.json
+
+# PyTorch model
+*.pt
+*.pth 
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+
+#dataset 
+.sig_processd/
+.signatures/
+test_pairs.csv
+train_pairs.csv
+
+# server client 
+server.py 
+client.py 
+
+

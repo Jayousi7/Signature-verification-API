@@ -1,0 +1,41 @@
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables and secrets (CRITICAL for security)
+.env
+.flaskenv
+secrets.json
+
+# Git and IDE files
+.git/
+.gitignore
+.vscode/
+.idea/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+#dataset 
+.sig_processd/
+.signatures/
+test_pairs.csv
+train_pairs.csv
+
+#original model (before fine-tuning)
+signet.pth
+
+# training 
+notebook.ipynb
+
+# server-client 
+server.py
+client.py
+
