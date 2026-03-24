@@ -6,7 +6,7 @@ A fast, lightweight REST API for signature verification using the **Signet** mod
 
 Before you begin, ensure you have the following installed on your machine:
 - [Docker Desktop](https://www.docker.com/products/docker-desktop) (or Docker Engine)
-- model params https://drive.google.com/file/d/1pO1chhe3utHtTIJCYHT8Qkubvo4uMMbi/view?usp=sharing
+- [model params](https://drive.google.com/file/d/1pO1chhe3utHtTIJCYHT8Qkubvo4uMMbi/view?usp=sharing)
 
 ## How to Run the App
 
